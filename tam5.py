@@ -10,7 +10,6 @@ my_dict = {
 }
 max_value = max(my_dict.values())
 min_value = min(my_dict.values())
-
-# نمایش نتایج
+ 
 print(f'Maximum value: {max_value}')
 print(f'Minimum value: {min_value}')
